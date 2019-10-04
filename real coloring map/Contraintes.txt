@@ -1,0 +1,25 @@
+wa != nt
+wa != sa
+##
+nt != wa
+nt != sa
+nt != qu
+##
+sa != wa
+sa != nt
+sa != qu
+sa != nsw
+sa != vi
+##
+qu != nt
+qu != sa
+qu != nsw
+##
+nsw != qu
+nsw != sa
+nsw != vi
+##
+vi != nsw
+vi != sa
+##
+##

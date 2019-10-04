@@ -1,0 +1,1648 @@
+if case0 == 1 {
+case0 != case8
+case0 != case16
+case0 != case24
+case0 != case32
+case0 != case40
+case0 != case48
+case0 != case56
+case0 != case1
+case0 != case2
+case0 != case3
+case0 != case4
+case0 != case5
+case0 != case6
+case0 != case7
+case0 != case9
+case0 != case18
+case0 != case27
+case0 != case36
+case0 != case45
+case0 != case54
+case0 != case63
+}
+##
+if case1 == 1 {
+case1 != case9
+case1 != case17
+case1 != case25
+case1 != case33
+case1 != case41
+case1 != case49
+case1 != case57
+case1 != case0
+case1 != case2
+case1 != case3
+case1 != case4
+case1 != case5
+case1 != case6
+case1 != case7
+case1 != case8
+case1 != case10
+case1 != case19
+case1 != case28
+case1 != case37
+case1 != case46
+case1 != case55
+}
+##
+if case2 == 1 {
+case2 != case10
+case2 != case18
+case2 != case26
+case2 != case34
+case2 != case42
+case2 != case50
+case2 != case58
+case2 != case0
+case2 != case1
+case2 != case3
+case2 != case4
+case2 != case5
+case2 != case6
+case2 != case7
+case2 != case9
+case2 != case16
+case2 != case11
+case2 != case20
+case2 != case29
+case2 != case38
+case2 != case47
+}
+##
+if case3 == 1 {
+case3 != case11
+case3 != case19
+case3 != case27
+case3 != case35
+case3 != case43
+case3 != case51
+case3 != case59
+case3 != case0
+case3 != case1
+case3 != case2
+case3 != case4
+case3 != case5
+case3 != case6
+case3 != case7
+case3 != case10
+case3 != case17
+case3 != case24
+case3 != case12
+case3 != case21
+case3 != case30
+case3 != case39
+}
+##
+if case4 == 1 {
+case4 != case12
+case4 != case20
+case4 != case28
+case4 != case36
+case4 != case44
+case4 != case52
+case4 != case60
+case4 != case0
+case4 != case1
+case4 != case2
+case4 != case3
+case4 != case5
+case4 != case6
+case4 != case7
+case4 != case11
+case4 != case18
+case4 != case25
+case4 != case32
+case4 != case13
+case4 != case22
+case4 != case31
+}
+##
+if case5 == 1 {
+case5 != case13
+case5 != case21
+case5 != case29
+case5 != case37
+case5 != case45
+case5 != case53
+case5 != case61
+case5 != case0
+case5 != case1
+case5 != case2
+case5 != case3
+case5 != case4
+case5 != case6
+case5 != case7
+case5 != case12
+case5 != case19
+case5 != case26
+case5 != case33
+case5 != case40
+case5 != case14
+case5 != case23
+}
+##
+if case6 == 1 {
+case6 != case14
+case6 != case22
+case6 != case30
+case6 != case38
+case6 != case46
+case6 != case54
+case6 != case62
+case6 != case0
+case6 != case1
+case6 != case2
+case6 != case3
+case6 != case4
+case6 != case5
+case6 != case7
+case6 != case13
+case6 != case20
+case6 != case27
+case6 != case34
+case6 != case41
+case6 != case48
+case6 != case15
+}
+##
+if case7 == 1 {
+case7 != case15
+case7 != case23
+case7 != case31
+case7 != case39
+case7 != case47
+case7 != case55
+case7 != case63
+case7 != case0
+case7 != case1
+case7 != case2
+case7 != case3
+case7 != case4
+case7 != case5
+case7 != case6
+case7 != case14
+case7 != case21
+case7 != case28
+case7 != case35
+case7 != case42
+case7 != case49
+case7 != case56
+}
+##
+if case8 == 1 {
+case8 != case0
+case8 != case16
+case8 != case24
+case8 != case32
+case8 != case40
+case8 != case48
+case8 != case56
+case8 != case9
+case8 != case10
+case8 != case11
+case8 != case12
+case8 != case13
+case8 != case14
+case8 != case15
+case8 != case1
+case8 != case17
+case8 != case26
+case8 != case35
+case8 != case44
+case8 != case53
+case8 != case62
+}
+##
+if case9 == 1 {
+case9 != case1
+case9 != case17
+case9 != case25
+case9 != case33
+case9 != case41
+case9 != case49
+case9 != case57
+case9 != case8
+case9 != case10
+case9 != case11
+case9 != case12
+case9 != case13
+case9 != case14
+case9 != case15
+case9 != case16
+case9 != case2
+case9 != case0
+case9 != case18
+case9 != case27
+case9 != case36
+case9 != case45
+case9 != case54
+case9 != case63
+}
+##
+if case10 == 1 {
+case10 != case2
+case10 != case18
+case10 != case26
+case10 != case34
+case10 != case42
+case10 != case50
+case10 != case58
+case10 != case8
+case10 != case9
+case10 != case11
+case10 != case12
+case10 != case13
+case10 != case14
+case10 != case15
+case10 != case17
+case10 != case24
+case10 != case3
+case10 != case1
+case10 != case19
+case10 != case28
+case10 != case37
+case10 != case46
+case10 != case55
+}
+##
+if case11 == 1 {
+case11 != case3
+case11 != case19
+case11 != case27
+case11 != case35
+case11 != case43
+case11 != case51
+case11 != case59
+case11 != case8
+case11 != case9
+case11 != case10
+case11 != case12
+case11 != case13
+case11 != case14
+case11 != case15
+case11 != case18
+case11 != case25
+case11 != case32
+case11 != case4
+case11 != case2
+case11 != case20
+case11 != case29
+case11 != case38
+case11 != case47
+}
+##
+if case12 == 1 {
+case12 != case4
+case12 != case20
+case12 != case28
+case12 != case36
+case12 != case44
+case12 != case52
+case12 != case60
+case12 != case8
+case12 != case9
+case12 != case10
+case12 != case11
+case12 != case13
+case12 != case14
+case12 != case15
+case12 != case19
+case12 != case26
+case12 != case33
+case12 != case40
+case12 != case5
+case12 != case3
+case12 != case21
+case12 != case30
+case12 != case39
+}
+##
+if case13 == 1 {
+case13 != case5
+case13 != case21
+case13 != case29
+case13 != case37
+case13 != case45
+case13 != case53
+case13 != case61
+case13 != case8
+case13 != case9
+case13 != case10
+case13 != case11
+case13 != case12
+case13 != case14
+case13 != case15
+case13 != case20
+case13 != case27
+case13 != case34
+case13 != case41
+case13 != case48
+case13 != case6
+case13 != case4
+case13 != case22
+case13 != case31
+}
+##
+if case14 == 1 {
+case14 != case6
+case14 != case22
+case14 != case30
+case14 != case38
+case14 != case46
+case14 != case54
+case14 != case62
+case14 != case8
+case14 != case9
+case14 != case10
+case14 != case11
+case14 != case12
+case14 != case13
+case14 != case15
+case14 != case21
+case14 != case28
+case14 != case35
+case14 != case42
+case14 != case49
+case14 != case56
+case14 != case7
+case14 != case5
+case14 != case23
+}
+##
+if case15 == 1 {
+case15 != case7
+case15 != case23
+case15 != case31
+case15 != case39
+case15 != case47
+case15 != case55
+case15 != case63
+case15 != case8
+case15 != case9
+case15 != case10
+case15 != case11
+case15 != case12
+case15 != case13
+case15 != case14
+case15 != case22
+case15 != case29
+case15 != case36
+case15 != case43
+case15 != case50
+case15 != case57
+case15 != case6
+}
+##
+if case16 == 1 {
+case16 != case0
+case16 != case8
+case16 != case24
+case16 != case32
+case16 != case40
+case16 != case48
+case16 != case56
+case16 != case17
+case16 != case18
+case16 != case19
+case16 != case20
+case16 != case21
+case16 != case22
+case16 != case23
+case16 != case9
+case16 != case2
+case16 != case25
+case16 != case34
+case16 != case43
+case16 != case52
+case16 != case61
+}
+##
+if case17 == 1 {
+case17 != case1
+case17 != case9
+case17 != case25
+case17 != case33
+case17 != case41
+case17 != case49
+case17 != case57
+case17 != case16
+case17 != case18
+case17 != case19
+case17 != case20
+case17 != case21
+case17 != case22
+case17 != case23
+case17 != case24
+case17 != case10
+case17 != case3
+case17 != case8
+case17 != case26
+case17 != case35
+case17 != case44
+case17 != case53
+case17 != case62
+}
+##
+if case18 == 1 {
+case18 != case2
+case18 != case10
+case18 != case26
+case18 != case34
+case18 != case42
+case18 != case50
+case18 != case58
+case18 != case16
+case18 != case17
+case18 != case19
+case18 != case20
+case18 != case21
+case18 != case22
+case18 != case23
+case18 != case25
+case18 != case32
+case18 != case11
+case18 != case4
+case18 != case9
+case18 != case0
+case18 != case27
+case18 != case36
+case18 != case45
+case18 != case54
+case18 != case63
+}
+##
+if case19 == 1 {
+case19 != case3
+case19 != case11
+case19 != case27
+case19 != case35
+case19 != case43
+case19 != case51
+case19 != case59
+case19 != case16
+case19 != case17
+case19 != case18
+case19 != case20
+case19 != case21
+case19 != case22
+case19 != case23
+case19 != case26
+case19 != case33
+case19 != case40
+case19 != case12
+case19 != case5
+case19 != case10
+case19 != case1
+case19 != case28
+case19 != case37
+case19 != case46
+case19 != case55
+}
+##
+if case20 == 1 {
+case20 != case4
+case20 != case12
+case20 != case28
+case20 != case36
+case20 != case44
+case20 != case52
+case20 != case60
+case20 != case16
+case20 != case17
+case20 != case18
+case20 != case19
+case20 != case21
+case20 != case22
+case20 != case23
+case20 != case27
+case20 != case34
+case20 != case41
+case20 != case48
+case20 != case13
+case20 != case6
+case20 != case11
+case20 != case2
+case20 != case29
+case20 != case38
+case20 != case47
+}
+##
+if case21 == 1 {
+case21 != case5
+case21 != case13
+case21 != case29
+case21 != case37
+case21 != case45
+case21 != case53
+case21 != case61
+case21 != case16
+case21 != case17
+case21 != case18
+case21 != case19
+case21 != case20
+case21 != case22
+case21 != case23
+case21 != case28
+case21 != case35
+case21 != case42
+case21 != case49
+case21 != case56
+case21 != case14
+case21 != case7
+case21 != case12
+case21 != case3
+case21 != case30
+case21 != case39
+}
+##
+if case22 == 1 {
+case22 != case6
+case22 != case14
+case22 != case30
+case22 != case38
+case22 != case46
+case22 != case54
+case22 != case62
+case22 != case16
+case22 != case17
+case22 != case18
+case22 != case19
+case22 != case20
+case22 != case21
+case22 != case23
+case22 != case29
+case22 != case36
+case22 != case43
+case22 != case50
+case22 != case57
+case22 != case15
+case22 != case13
+case22 != case4
+case22 != case31
+}
+##
+if case23 == 1 {
+case23 != case7
+case23 != case15
+case23 != case31
+case23 != case39
+case23 != case47
+case23 != case55
+case23 != case63
+case23 != case16
+case23 != case17
+case23 != case18
+case23 != case19
+case23 != case20
+case23 != case21
+case23 != case22
+case23 != case30
+case23 != case37
+case23 != case44
+case23 != case51
+case23 != case58
+case23 != case14
+case23 != case5
+}
+##
+if case24 == 1 {
+case24 != case0
+case24 != case8
+case24 != case16
+case24 != case32
+case24 != case40
+case24 != case48
+case24 != case56
+case24 != case25
+case24 != case26
+case24 != case27
+case24 != case28
+case24 != case29
+case24 != case30
+case24 != case31
+case24 != case17
+case24 != case10
+case24 != case3
+case24 != case33
+case24 != case42
+case24 != case51
+case24 != case60
+}
+##
+if case25 == 1 {
+case25 != case1
+case25 != case9
+case25 != case17
+case25 != case33
+case25 != case41
+case25 != case49
+case25 != case57
+case25 != case24
+case25 != case26
+case25 != case27
+case25 != case28
+case25 != case29
+case25 != case30
+case25 != case31
+case25 != case32
+case25 != case18
+case25 != case11
+case25 != case4
+case25 != case16
+case25 != case34
+case25 != case43
+case25 != case52
+case25 != case61
+}
+##
+if case26 == 1 {
+case26 != case2
+case26 != case10
+case26 != case18
+case26 != case34
+case26 != case42
+case26 != case50
+case26 != case58
+case26 != case24
+case26 != case25
+case26 != case27
+case26 != case28
+case26 != case29
+case26 != case30
+case26 != case31
+case26 != case33
+case26 != case40
+case26 != case19
+case26 != case12
+case26 != case5
+case26 != case17
+case26 != case8
+case26 != case35
+case26 != case44
+case26 != case53
+case26 != case62
+}
+##
+if case27 == 1 {
+case27 != case3
+case27 != case11
+case27 != case19
+case27 != case35
+case27 != case43
+case27 != case51
+case27 != case59
+case27 != case24
+case27 != case25
+case27 != case26
+case27 != case28
+case27 != case29
+case27 != case30
+case27 != case31
+case27 != case34
+case27 != case41
+case27 != case48
+case27 != case20
+case27 != case13
+case27 != case6
+case27 != case18
+case27 != case9
+case27 != case0
+case27 != case36
+case27 != case45
+case27 != case54
+case27 != case63
+}
+##
+if case28 == 1 {
+case28 != case4
+case28 != case12
+case28 != case20
+case28 != case36
+case28 != case44
+case28 != case52
+case28 != case60
+case28 != case24
+case28 != case25
+case28 != case26
+case28 != case27
+case28 != case29
+case28 != case30
+case28 != case31
+case28 != case35
+case28 != case42
+case28 != case49
+case28 != case56
+case28 != case21
+case28 != case14
+case28 != case7
+case28 != case19
+case28 != case10
+case28 != case1
+case28 != case37
+case28 != case46
+case28 != case55
+}
+##
+if case29 == 1 {
+case29 != case5
+case29 != case13
+case29 != case21
+case29 != case37
+case29 != case45
+case29 != case53
+case29 != case61
+case29 != case24
+case29 != case25
+case29 != case26
+case29 != case27
+case29 != case28
+case29 != case30
+case29 != case31
+case29 != case36
+case29 != case43
+case29 != case50
+case29 != case57
+case29 != case22
+case29 != case15
+case29 != case20
+case29 != case11
+case29 != case2
+case29 != case38
+case29 != case47
+}
+##
+if case30 == 1 {
+case30 != case6
+case30 != case14
+case30 != case22
+case30 != case38
+case30 != case46
+case30 != case54
+case30 != case62
+case30 != case24
+case30 != case25
+case30 != case26
+case30 != case27
+case30 != case28
+case30 != case29
+case30 != case31
+case30 != case37
+case30 != case44
+case30 != case51
+case30 != case58
+case30 != case23
+case30 != case21
+case30 != case12
+case30 != case3
+case30 != case39
+}
+##
+if case31 == 1 {
+case31 != case7
+case31 != case15
+case31 != case23
+case31 != case39
+case31 != case47
+case31 != case55
+case31 != case63
+case31 != case24
+case31 != case25
+case31 != case26
+case31 != case27
+case31 != case28
+case31 != case29
+case31 != case30
+case31 != case38
+case31 != case45
+case31 != case52
+case31 != case59
+case31 != case22
+case31 != case13
+case31 != case4
+}
+##
+if case32 == 1 {
+case32 != case0
+case32 != case8
+case32 != case16
+case32 != case24
+case32 != case40
+case32 != case48
+case32 != case56
+case32 != case33
+case32 != case34
+case32 != case35
+case32 != case36
+case32 != case37
+case32 != case38
+case32 != case39
+case32 != case25
+case32 != case18
+case32 != case11
+case32 != case4
+case32 != case41
+case32 != case50
+case32 != case59
+}
+##
+if case33 == 1 {
+case33 != case1
+case33 != case9
+case33 != case17
+case33 != case25
+case33 != case41
+case33 != case49
+case33 != case57
+case33 != case32
+case33 != case34
+case33 != case35
+case33 != case36
+case33 != case37
+case33 != case38
+case33 != case39
+case33 != case40
+case33 != case26
+case33 != case19
+case33 != case12
+case33 != case5
+case33 != case24
+case33 != case42
+case33 != case51
+case33 != case60
+}
+##
+if case34 == 1 {
+case34 != case2
+case34 != case10
+case34 != case18
+case34 != case26
+case34 != case42
+case34 != case50
+case34 != case58
+case34 != case32
+case34 != case33
+case34 != case35
+case34 != case36
+case34 != case37
+case34 != case38
+case34 != case39
+case34 != case41
+case34 != case48
+case34 != case27
+case34 != case20
+case34 != case13
+case34 != case6
+case34 != case25
+case34 != case16
+case34 != case43
+case34 != case52
+case34 != case61
+}
+##
+if case35 == 1 {
+case35 != case3
+case35 != case11
+case35 != case19
+case35 != case27
+case35 != case43
+case35 != case51
+case35 != case59
+case35 != case32
+case35 != case33
+case35 != case34
+case35 != case36
+case35 != case37
+case35 != case38
+case35 != case39
+case35 != case42
+case35 != case49
+case35 != case56
+case35 != case28
+case35 != case21
+case35 != case14
+case35 != case7
+case35 != case26
+case35 != case17
+case35 != case8
+case35 != case44
+case35 != case53
+case35 != case62
+}
+##
+if case36 == 1 {
+case36 != case4
+case36 != case12
+case36 != case20
+case36 != case28
+case36 != case44
+case36 != case52
+case36 != case60
+case36 != case32
+case36 != case33
+case36 != case34
+case36 != case35
+case36 != case37
+case36 != case38
+case36 != case39
+case36 != case43
+case36 != case50
+case36 != case57
+case36 != case29
+case36 != case22
+case36 != case15
+case36 != case27
+case36 != case18
+case36 != case9
+case36 != case0
+case36 != case45
+case36 != case54
+case36 != case63
+}
+##
+if case37 == 1 {
+case37 != case5
+case37 != case13
+case37 != case21
+case37 != case29
+case37 != case45
+case37 != case53
+case37 != case61
+case37 != case32
+case37 != case33
+case37 != case34
+case37 != case35
+case37 != case36
+case37 != case38
+case37 != case39
+case37 != case44
+case37 != case51
+case37 != case58
+case37 != case30
+case37 != case23
+case37 != case28
+case37 != case19
+case37 != case10
+case37 != case1
+case37 != case46
+case37 != case55
+}
+##
+if case38 == 1 {
+case38 != case6
+case38 != case14
+case38 != case22
+case38 != case30
+case38 != case46
+case38 != case54
+case38 != case62
+case38 != case32
+case38 != case33
+case38 != case34
+case38 != case35
+case38 != case36
+case38 != case37
+case38 != case39
+case38 != case45
+case38 != case52
+case38 != case59
+case38 != case31
+case38 != case29
+case38 != case20
+case38 != case11
+case38 != case2
+case38 != case47
+}
+##
+if case39 == 1 {
+case39 != case7
+case39 != case15
+case39 != case23
+case39 != case31
+case39 != case47
+case39 != case55
+case39 != case63
+case39 != case32
+case39 != case33
+case39 != case34
+case39 != case35
+case39 != case36
+case39 != case37
+case39 != case38
+case39 != case46
+case39 != case53
+case39 != case60
+case39 != case30
+case39 != case21
+case39 != case12
+case39 != case3
+}
+##
+if case40 == 1 {
+case40 != case0
+case40 != case8
+case40 != case16
+case40 != case24
+case40 != case32
+case40 != case48
+case40 != case56
+case40 != case41
+case40 != case42
+case40 != case43
+case40 != case44
+case40 != case45
+case40 != case46
+case40 != case47
+case40 != case33
+case40 != case26
+case40 != case19
+case40 != case12
+case40 != case5
+case40 != case49
+case40 != case58
+}
+##
+if case41 == 1 {
+case41 != case1
+case41 != case9
+case41 != case17
+case41 != case25
+case41 != case33
+case41 != case49
+case41 != case57
+case41 != case40
+case41 != case42
+case41 != case43
+case41 != case44
+case41 != case45
+case41 != case46
+case41 != case47
+case41 != case48
+case41 != case34
+case41 != case27
+case41 != case20
+case41 != case13
+case41 != case6
+case41 != case32
+case41 != case50
+case41 != case59
+}
+##
+if case42 == 1 {
+case42 != case2
+case42 != case10
+case42 != case18
+case42 != case26
+case42 != case34
+case42 != case50
+case42 != case58
+case42 != case40
+case42 != case41
+case42 != case43
+case42 != case44
+case42 != case45
+case42 != case46
+case42 != case47
+case42 != case49
+case42 != case56
+case42 != case35
+case42 != case28
+case42 != case21
+case42 != case14
+case42 != case7
+case42 != case33
+case42 != case24
+case42 != case51
+case42 != case60
+}
+##
+if case43 == 1 {
+case43 != case3
+case43 != case11
+case43 != case19
+case43 != case27
+case43 != case35
+case43 != case51
+case43 != case59
+case43 != case40
+case43 != case41
+case43 != case42
+case43 != case44
+case43 != case45
+case43 != case46
+case43 != case47
+case43 != case50
+case43 != case57
+case43 != case36
+case43 != case29
+case43 != case22
+case43 != case15
+case43 != case34
+case43 != case25
+case43 != case16
+case43 != case52
+case43 != case61
+}
+##
+if case44 == 1 {
+case44 != case4
+case44 != case12
+case44 != case20
+case44 != case28
+case44 != case36
+case44 != case52
+case44 != case60
+case44 != case40
+case44 != case41
+case44 != case42
+case44 != case43
+case44 != case45
+case44 != case46
+case44 != case47
+case44 != case51
+case44 != case58
+case44 != case37
+case44 != case30
+case44 != case23
+case44 != case35
+case44 != case26
+case44 != case17
+case44 != case8
+case44 != case53
+case44 != case62
+}
+##
+if case45 == 1 {
+case45 != case5
+case45 != case13
+case45 != case21
+case45 != case29
+case45 != case37
+case45 != case53
+case45 != case61
+case45 != case40
+case45 != case41
+case45 != case42
+case45 != case43
+case45 != case44
+case45 != case46
+case45 != case47
+case45 != case52
+case45 != case59
+case45 != case38
+case45 != case31
+case45 != case36
+case45 != case27
+case45 != case18
+case45 != case9
+case45 != case0
+case45 != case54
+case45 != case63
+}
+##
+if case46 == 1 {
+case46 != case6
+case46 != case14
+case46 != case22
+case46 != case30
+case46 != case38
+case46 != case54
+case46 != case62
+case46 != case40
+case46 != case41
+case46 != case42
+case46 != case43
+case46 != case44
+case46 != case45
+case46 != case47
+case46 != case53
+case46 != case60
+case46 != case39
+case46 != case37
+case46 != case28
+case46 != case19
+case46 != case10
+case46 != case1
+case46 != case55
+}
+##
+if case47 == 1 {
+case47 != case7
+case47 != case15
+case47 != case23
+case47 != case31
+case47 != case39
+case47 != case55
+case47 != case63
+case47 != case40
+case47 != case41
+case47 != case42
+case47 != case43
+case47 != case44
+case47 != case45
+case47 != case46
+case47 != case54
+case47 != case61
+case47 != case38
+case47 != case29
+case47 != case20
+case47 != case11
+case47 != case2
+}
+##
+if case48 == 1 {
+case48 != case0
+case48 != case8
+case48 != case16
+case48 != case24
+case48 != case32
+case48 != case40
+case48 != case56
+case48 != case49
+case48 != case50
+case48 != case51
+case48 != case52
+case48 != case53
+case48 != case54
+case48 != case55
+case48 != case41
+case48 != case34
+case48 != case27
+case48 != case20
+case48 != case13
+case48 != case6
+case48 != case57
+}
+##
+if case49 == 1 {
+case49 != case1
+case49 != case9
+case49 != case17
+case49 != case25
+case49 != case33
+case49 != case41
+case49 != case57
+case49 != case48
+case49 != case50
+case49 != case51
+case49 != case52
+case49 != case53
+case49 != case54
+case49 != case55
+case49 != case56
+case49 != case42
+case49 != case35
+case49 != case28
+case49 != case21
+case49 != case14
+case49 != case7
+case49 != case40
+case49 != case58
+}
+##
+if case50 == 1 {
+case50 != case2
+case50 != case10
+case50 != case18
+case50 != case26
+case50 != case34
+case50 != case42
+case50 != case58
+case50 != case48
+case50 != case49
+case50 != case51
+case50 != case52
+case50 != case53
+case50 != case54
+case50 != case55
+case50 != case57
+case50 != case43
+case50 != case36
+case50 != case29
+case50 != case22
+case50 != case15
+case50 != case41
+case50 != case32
+case50 != case59
+}
+##
+if case51 == 1 {
+case51 != case3
+case51 != case11
+case51 != case19
+case51 != case27
+case51 != case35
+case51 != case43
+case51 != case59
+case51 != case48
+case51 != case49
+case51 != case50
+case51 != case52
+case51 != case53
+case51 != case54
+case51 != case55
+case51 != case58
+case51 != case44
+case51 != case37
+case51 != case30
+case51 != case23
+case51 != case42
+case51 != case33
+case51 != case24
+case51 != case60
+}
+##
+if case52 == 1 {
+case52 != case4
+case52 != case12
+case52 != case20
+case52 != case28
+case52 != case36
+case52 != case44
+case52 != case60
+case52 != case48
+case52 != case49
+case52 != case50
+case52 != case51
+case52 != case53
+case52 != case54
+case52 != case55
+case52 != case59
+case52 != case45
+case52 != case38
+case52 != case31
+case52 != case43
+case52 != case34
+case52 != case25
+case52 != case16
+case52 != case61
+}
+##
+if case53 == 1 {
+case53 != case5
+case53 != case13
+case53 != case21
+case53 != case29
+case53 != case37
+case53 != case45
+case53 != case61
+case53 != case48
+case53 != case49
+case53 != case50
+case53 != case51
+case53 != case52
+case53 != case54
+case53 != case55
+case53 != case60
+case53 != case46
+case53 != case39
+case53 != case44
+case53 != case35
+case53 != case26
+case53 != case17
+case53 != case8
+case53 != case62
+}
+##
+if case54 == 1 {
+case54 != case6
+case54 != case14
+case54 != case22
+case54 != case30
+case54 != case38
+case54 != case46
+case54 != case62
+case54 != case48
+case54 != case49
+case54 != case50
+case54 != case51
+case54 != case52
+case54 != case53
+case54 != case55
+case54 != case61
+case54 != case47
+case54 != case45
+case54 != case36
+case54 != case27
+case54 != case18
+case54 != case9
+case54 != case0
+case54 != case63
+}
+##
+if case55 == 1 {
+case55 != case7
+case55 != case15
+case55 != case23
+case55 != case31
+case55 != case39
+case55 != case47
+case55 != case63
+case55 != case48
+case55 != case49
+case55 != case50
+case55 != case51
+case55 != case52
+case55 != case53
+case55 != case54
+case55 != case62
+case55 != case46
+case55 != case37
+case55 != case28
+case55 != case19
+case55 != case10
+case55 != case1
+}
+##
+if case56 == 1 {
+case56 != case0
+case56 != case8
+case56 != case16
+case56 != case24
+case56 != case32
+case56 != case40
+case56 != case48
+case56 != case57
+case56 != case58
+case56 != case59
+case56 != case60
+case56 != case61
+case56 != case62
+case56 != case63
+case56 != case49
+case56 != case42
+case56 != case35
+case56 != case28
+case56 != case21
+case56 != case14
+case56 != case7
+}
+##
+if case57 == 1 {
+case57 != case1
+case57 != case9
+case57 != case17
+case57 != case25
+case57 != case33
+case57 != case41
+case57 != case49
+case57 != case56
+case57 != case58
+case57 != case59
+case57 != case60
+case57 != case61
+case57 != case62
+case57 != case63
+case57 != case50
+case57 != case43
+case57 != case36
+case57 != case29
+case57 != case22
+case57 != case15
+case57 != case48
+}
+##
+if case58 == 1 {
+case58 != case2
+case58 != case10
+case58 != case18
+case58 != case26
+case58 != case34
+case58 != case42
+case58 != case50
+case58 != case56
+case58 != case57
+case58 != case59
+case58 != case60
+case58 != case61
+case58 != case62
+case58 != case63
+case58 != case51
+case58 != case44
+case58 != case37
+case58 != case30
+case58 != case23
+case58 != case49
+case58 != case40
+}
+##
+if case59 == 1 {
+case59 != case3
+case59 != case11
+case59 != case19
+case59 != case27
+case59 != case35
+case59 != case43
+case59 != case51
+case59 != case56
+case59 != case57
+case59 != case58
+case59 != case60
+case59 != case61
+case59 != case62
+case59 != case63
+case59 != case52
+case59 != case45
+case59 != case38
+case59 != case31
+case59 != case50
+case59 != case41
+case59 != case32
+}
+##
+if case60 == 1 {
+case60 != case4
+case60 != case12
+case60 != case20
+case60 != case28
+case60 != case36
+case60 != case44
+case60 != case52
+case60 != case56
+case60 != case57
+case60 != case58
+case60 != case59
+case60 != case61
+case60 != case62
+case60 != case63
+case60 != case53
+case60 != case46
+case60 != case39
+case60 != case51
+case60 != case42
+case60 != case33
+case60 != case24
+}
+##
+if case61 == 1 {
+case61 != case5
+case61 != case13
+case61 != case21
+case61 != case29
+case61 != case37
+case61 != case45
+case61 != case53
+case61 != case56
+case61 != case57
+case61 != case58
+case61 != case59
+case61 != case60
+case61 != case62
+case61 != case63
+case61 != case54
+case61 != case47
+case61 != case52
+case61 != case43
+case61 != case34
+case61 != case25
+case61 != case16
+}
+##
+if case62 == 1 {
+case62 != case6
+case62 != case14
+case62 != case22
+case62 != case30
+case62 != case38
+case62 != case46
+case62 != case54
+case62 != case56
+case62 != case57
+case62 != case58
+case62 != case59
+case62 != case60
+case62 != case61
+case62 != case63
+case62 != case55
+case62 != case53
+case62 != case44
+case62 != case35
+case62 != case26
+case62 != case17
+case62 != case8
+}
+##
+if case63 == 1 {
+case63 != case7
+case63 != case15
+case63 != case23
+case63 != case31
+case63 != case39
+case63 != case47
+case63 != case55
+case63 != case56
+case63 != case57
+case63 != case58
+case63 != case59
+case63 != case60
+case63 != case61
+case63 != case62
+case63 != case54
+case63 != case45
+case63 != case36
+case63 != case27
+case63 != case18
+case63 != case9
+case63 != case0
+}
+##
