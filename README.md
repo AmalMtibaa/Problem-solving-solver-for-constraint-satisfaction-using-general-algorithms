@@ -1,9 +1,9 @@
 # Problem-solving-solver-for-constraint-satisfaction-using-general-algorithms
 
-This project was part of Artifical intelligence assignement where we created a general algorithm that can solve N-Queens, Sudoku and ColoringMap problems using Python
+This project was part of an assignment in Artificial intelligence course in INSAT where we created a general algorithm that can solve N-Queens, Sudoku and ColoringMap problems using Python
 
 #
-We have created a csp class for the formalization of satisfaction problems of constraints. This class is represented by a set of variables. We associate to each variable a set of domains and constraints. 
+We have created a csp class for the formalization of the satisfaction of problems with constraints. This class is represented by a set of variables. We associate to each variable a set of domains and constraints. 
 The code of this class is in csp.py et cspUtil.py
 
 
@@ -20,6 +20,10 @@ form:
 
 the developed operators are: <,>, <=,> =, =,! =, if (for 8 queens) The constraints of the variables are separated by a line containing "##". We have developed 3 algorithms for solving these problems that are : Backtracking, Forward check and Forward check + Arc consistency
 AC3
+
+## Tools & Technologies
+
+Python, tkinter
 
 ## Collaborators
 
