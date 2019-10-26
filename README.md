@@ -1,4 +1,4 @@
-# Problem-solving-solver-for-constraint-satisfaction-using-general-algorithms
+# Problem-solver-for-constraint-satisfaction-using-general-algorithms
 
 This project was part of an assignment in Artificial intelligence course in INSAT where we created a general algorithm that can solve N-Queens, Sudoku and ColoringMap problems using Python
 
