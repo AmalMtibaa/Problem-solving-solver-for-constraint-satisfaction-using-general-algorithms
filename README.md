@@ -25,8 +25,3 @@ AC3
 
 Python, tkinter
 
-## Collaborators
-
-Amal Mtibaa
-
-Med Wassim Riahi
